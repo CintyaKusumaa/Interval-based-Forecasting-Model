@@ -18,7 +18,8 @@ The `.py` scripts within this repository exclusively contain the core functions 
 The algorithms and mathematical logic formulated in these modules are strictly anchored in the theoretical frameworks established by the following literature:
 
 1.  **Han, A., Hong, Y., & Wang, S. (2012).** *Autoregressive Conditional Models for Interval-Valued Time Series Data.* Working Paper, Department of Economics, Cornell University.
-2.  **Zheng, L., Sun, Y., & Wang, S. (2024).** *A novel interval-based hybrid framework for crude oil price forecasting and trading.* Energy Economics, 130, 107266. https://doi.org/10.1016/j.eneco.2023.107266
+2.  **He, K., Sun, Y., dan Wang, S. (2021).** *Forecasting crude oil price intervals and return volatility via ACI models*. Econometric Reviews, 40(6), 584–606. https://doi.org/10.1080/07474938.2021.1889202
+3.  **Zheng, L., Sun, Y., & Wang, S. (2024).** *A novel interval-based hybrid framework for crude oil price forecasting and trading.* Energy Economics, 130, 107266. https://doi.org/10.1016/j.eneco.2023.107266
 
 ## Contact & Implementation
 The scripts provided are modular components utilized strictly during the experimental and modeling phases. For complete syntax guidelines, data pipeline instructions, or inquiries regarding the practical deployment of these functions, please reach out to the author directly.
